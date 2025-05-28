@@ -1,0 +1,13 @@
+blobfile==3.0.0
+faiss_gpu==1.7.2
+numpy==1.24.3
+opencv_python==4.10.0.84
+pandas==2.2.3
+Pillow==11.1.0
+scipy==1.15.2
+setuptools==57.5.0
+skimage==0.0
+tensorflow==2.19.0
+torch==2.4.1
+torchvision==0.19.1
+tqdm==4.67.0
